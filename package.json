@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing the noble library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "noble": "^1.9.1"
+  },
+  "devDependencies": {
+    "electron": "^4.0.4",
+    "electron-rebuild": "^1.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackBoyCode/electron-noble.git"
+  }
+
+}
